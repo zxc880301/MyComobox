@@ -1,6 +1,5 @@
  package com.zxc.mycombobox.view;
 
-
 import android.content.Context;
 import android.graphics.Color;
 import android.graphics.drawable.BitmapDrawable;
